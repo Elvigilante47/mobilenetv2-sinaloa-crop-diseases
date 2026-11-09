@@ -1,0 +1,21 @@
+{
+  "run_id": "mobilenetv2_5clases_RAM_color_jitter_30ep_20261008_130216_gpu0",
+  "modelo": "mobilenetv2",
+  "preprocesamiento": {
+    "flip_horizontal": false,
+    "flip_vertical": false,
+    "rotacion": false,
+    "recorte_zoom": false,
+    "color_jitter": true,
+    "clahe": false,
+    "desenfoque_gaussiano": false,
+    "ruido_gaussiano": false,
+    "recorte_aleatorio": false
+  },
+  "epochs": 30,
+  "batch_size": 32,
+  "learning_rate": 0.0001,
+  "best_epoch": 24,
+  "best_val_loss": 0.0162,
+  "gpu_utilizada": "0"
+}

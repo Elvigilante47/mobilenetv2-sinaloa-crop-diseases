@@ -1,0 +1,10 @@
+# Ignorar dtasets y modelos pesados
+Datasets/
+Modelos/*.pth
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar reportes si son muy pesados
+# reportes_ram_224/s

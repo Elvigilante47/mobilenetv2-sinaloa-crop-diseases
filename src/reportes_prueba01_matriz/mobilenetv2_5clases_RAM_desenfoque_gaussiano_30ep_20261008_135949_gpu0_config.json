@@ -1,0 +1,21 @@
+{
+  "run_id": "mobilenetv2_5clases_RAM_desenfoque_gaussiano_30ep_20261008_135949_gpu0",
+  "modelo": "mobilenetv2",
+  "preprocesamiento": {
+    "flip_horizontal": false,
+    "flip_vertical": false,
+    "rotacion": false,
+    "recorte_zoom": false,
+    "color_jitter": false,
+    "clahe": false,
+    "desenfoque_gaussiano": true,
+    "ruido_gaussiano": false,
+    "recorte_aleatorio": false
+  },
+  "epochs": 30,
+  "batch_size": 32,
+  "learning_rate": 0.0001,
+  "best_epoch": 23,
+  "best_val_loss": 0.0127,
+  "gpu_utilizada": "0"
+}

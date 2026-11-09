@@ -1,0 +1,45 @@
+{
+  "Cucumber_gummy_stem_blight": {
+    "precision": 1.0,
+    "recall": 0.9888888888888889,
+    "f1-score": 0.994413407821229,
+    "support": 180.0
+  },
+  "Pumpkin_leaf_blight": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 180.0
+  },
+  "Basil_downy_mildew": {
+    "precision": 0.994475138121547,
+    "recall": 1.0,
+    "f1-score": 0.997229916897507,
+    "support": 180.0
+  },
+  "Melon_gummy_stem_blight": {
+    "precision": 0.994475138121547,
+    "recall": 1.0,
+    "f1-score": 0.997229916897507,
+    "support": 180.0
+  },
+  "Chiltepin_chili_early_Bacterial_blight": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 180.0
+  },
+  "accuracy": 0.9977777777777778,
+  "macro avg": {
+    "precision": 0.9977900552486189,
+    "recall": 0.9977777777777778,
+    "f1-score": 0.9977746483232487,
+    "support": 900.0
+  },
+  "weighted avg": {
+    "precision": 0.9977900552486189,
+    "recall": 0.9977777777777778,
+    "f1-score": 0.9977746483232485,
+    "support": 900.0
+  }
+}
