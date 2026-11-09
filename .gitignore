@@ -1,6 +1,6 @@
 # Ignorar dtasets y modelos pesados
 # Datasets/
-Modelos/*.pth
+# Modelos/*.pth
 
 # Ignorar archivos temporales de Python
 __pycache__/
