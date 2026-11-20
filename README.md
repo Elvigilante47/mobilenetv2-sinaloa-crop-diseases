@@ -24,6 +24,11 @@ El código fue desarrollado y probado en un entorno Linux (Ubuntu) utilizando An
 * Tqdm
 
 ## Estructura del Repositorio
+* `Datasets`: Carpeta con el conjunto de datos utilizado para el entrenamiento.
+* `Modelos`:  Contiene los archivos pth generados con el entrenamiento de 5 clases y 10 clases.
+* `Src`: Contiene los codigos utilizados junto a las dos versiones: la carpeta "09_matriz_confusion_resaltado_errores" para el entrenamiento con 5 clases y la carpeta "10_matriz_confusion_clases_sanas" para el entrenamiento con 10 clases
+
+
 * `configuracion.py`: Archivo central que controla hiperparámetros (épocas, batch size, learning rate), rutas del dataset y activación de métodos de aumento de datos.
 * `manifiest.py`: Script para generar el manifiesto JSON que divide de forma reproducible el dataset (80% entrenamiento / 20% validación).
 * `ram_dataset_loader_v2.py`: Herramienta para transferir las imágenes redimensionadas (224x224) a la memoria RAM antes del entrenamiento.
