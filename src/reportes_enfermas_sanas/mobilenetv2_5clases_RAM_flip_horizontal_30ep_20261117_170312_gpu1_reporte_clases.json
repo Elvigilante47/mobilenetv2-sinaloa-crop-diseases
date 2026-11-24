@@ -1,0 +1,75 @@
+{
+  "Cucumber_gummy_stem_blight": {
+    "precision": 0.9888268156424581,
+    "recall": 0.9833333333333333,
+    "f1-score": 0.9860724233983287,
+    "support": 180.0
+  },
+  "Pumpkin_leaf_blight": {
+    "precision": 0.9664804469273743,
+    "recall": 0.9611111111111111,
+    "f1-score": 0.9637883008356546,
+    "support": 180.0
+  },
+  "Basil_downy_mildew": {
+    "precision": 0.9943502824858758,
+    "recall": 0.9777777777777777,
+    "f1-score": 0.9859943977591037,
+    "support": 180.0
+  },
+  "Melon_gummy_stem_blight": {
+    "precision": 0.988950276243094,
+    "recall": 0.9944444444444445,
+    "f1-score": 0.9916897506925207,
+    "support": 180.0
+  },
+  "Chiltepin_chili_early_Bacterial_blight": {
+    "precision": 1.0,
+    "recall": 0.9944444444444445,
+    "f1-score": 0.9972144846796658,
+    "support": 180.0
+  },
+  "Cucumber_healthy": {
+    "precision": 0.9888268156424581,
+    "recall": 0.9833333333333333,
+    "f1-score": 0.9860724233983287,
+    "support": 180.0
+  },
+  "Pumpkin_healthy": {
+    "precision": 0.9611111111111111,
+    "recall": 0.9611111111111111,
+    "f1-score": 0.9611111111111111,
+    "support": 180.0
+  },
+  "Basil_healthy": {
+    "precision": 0.9782608695652174,
+    "recall": 1.0,
+    "f1-score": 0.989010989010989,
+    "support": 180.0
+  },
+  "Melon_healthy": {
+    "precision": 0.9835164835164835,
+    "recall": 0.9944444444444445,
+    "f1-score": 0.988950276243094,
+    "support": 180.0
+  },
+  "Chiltepin_chili_healthy": {
+    "precision": 0.9944444444444445,
+    "recall": 0.9944444444444445,
+    "f1-score": 0.9944444444444445,
+    "support": 180.0
+  },
+  "accuracy": 0.9844444444444445,
+  "macro avg": {
+    "precision": 0.9844767545578517,
+    "recall": 0.9844444444444445,
+    "f1-score": 0.9844348601573241,
+    "support": 1800.0
+  },
+  "weighted avg": {
+    "precision": 0.9844767545578517,
+    "recall": 0.9844444444444445,
+    "f1-score": 0.9844348601573241,
+    "support": 1800.0
+  }
+}
